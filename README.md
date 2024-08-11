@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # FlutterQuizApp
-#This app built while learning flutter.
-#This is a basic Flutter quiz app consisting 7 questions about flutter.
-#Learning and implementing is a fun way to learn any technology.
+This app built while learning flutter.
+This is a basic Flutter quiz app consisting 6 questions about flutter.
+Learning and implementing is a fun way to learn any technology.
